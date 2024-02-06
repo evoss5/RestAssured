@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeMethod;
 public class BaseTest {
 
     protected static Service service;
-    protected static WebDriver driver;
+
 
 
 //    @BeforeMethod
