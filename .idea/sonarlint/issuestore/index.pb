@@ -38,9 +38,9 @@ R
 -src/test/java/Tests/Ćwiczenie/Cwiczenie.java,5\5\5589f1c84705deebca06c1e18279731eaeef6dad
 _
 /src/test/java/Tests/Ćwiczenie/Ćwiczenie2.java,3\6\36d8115f11084fb180195f9d1bce1edbfba251e4
-]
--src/test/java/Tests/Ćwiczenie/PutDelete.java,a\3\a31c4e3641314515c50f5db2d6864226a1db2844
 R
 "src/test/java/Tests/PutDelete.java,a\8\a8d6482f6b39c3ec3589529a062052ce905fbf57
 M
 src/test/java/Tests/CRUD.java,e\2\e21df5ec7360cc7c70d388f9b10142d96e03cc6c
+P
+ src/test/java/PetStore/Test.java,e\2\e2ed6cf82df80f0fd452dd7ea5b8c6ff086adee8
