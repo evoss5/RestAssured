@@ -44,3 +44,21 @@ M
 src/test/java/Tests/CRUD.java,e\2\e21df5ec7360cc7c70d388f9b10142d96e03cc6c
 P
  src/test/java/PetStore/Test.java,e\2\e2ed6cf82df80f0fd452dd7ea5b8c6ff086adee8
+i
+9src/test/java/PetStore/methods/BasicHttpMethodsTests.java,1\e\1efb03c26534d59e8ff0670420b5f8513a923877
+W
+'src/test/java/PetStore/Ćwiczenie1.java,1\8\1893acf297391dac9f201451d734ac193c026593
+_
+/src/test/java/PetStore/methods/Ćwiczenie2.java,3\f\3f29a86f49cc9801754f9cc4f5d18179caa96246
+_
+/src/test/java/PetStore/methods/Ćwiczenie1.java,7\6\7656782fda1429474e01351f079ad9668e572425
+a
+1src/test/java/PetStore/methods/GET/GetMethod.java,6\e\6e7584d651dc438965de5742161f183768d3d1b7
+c
+3src/test/java/PetStore/methods/GET/Ćwiczenie1.java,6\b\6be62f5493123e0c11e4d08ae1acae70d37cc593
+a
+1src/test/java/PetStore/methods/PUT/putMethod.java,3\f\3f12bd12a72aeaefe31d010f57a0409f8d77716f
+g
+7src/test/java/PetStore/methods/DELETE/deleteMethod.java,5\a\5ad107b1c3b15272b69b5ba54f75b6d7c949a9ca
+c
+3src/test/java/PetStore/methods/POST/postMethod.java,5\9\595039294b01a859577be401ec55d043aa7c39eb
